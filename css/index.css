@@ -1,0 +1,35 @@
+.accumulate{
+    width: 100%;
+    background-color: #BEE9FE;
+    height: 100vh;
+}
+
+.accumulate__img{
+    width: 100%;
+    margin: 25% auto;
+}
+
+.accumulate__box{
+    position: relative;
+}
+
+.accumulateWrap__spanbox{
+    position: absolute;
+    bottom: 48%;
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+}
+
+.accumulateWrap__span{
+    font-size: 40px;
+    color: #1FBFE5;
+    font-family: 'GmarketSansBold';
+}
+
+.accumulate__a{
+    width: 100%;
+    text-align: center;
+    font-family: 'GmarketSansMedium';
+    font-size: 12px;
+}
